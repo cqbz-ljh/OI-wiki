@@ -937,7 +937,6 @@ $i$ 按照 $5 \to 1$ 扫：
         ```cpp
         // 时间戳优化
         int tag[MAXN], t[MAXN], Tag;
-        ```
     
         void reset() { ++Tag; }
     
